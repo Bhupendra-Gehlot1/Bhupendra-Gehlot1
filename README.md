@@ -63,13 +63,3 @@ System Design • API Design • Microservices • Performance Optimization
 - LeetCode Knight (1858)
 
 ---
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhupendra-gehlot1&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhupendra-gehlot1&layout=compact&theme=default" />
-</p>
